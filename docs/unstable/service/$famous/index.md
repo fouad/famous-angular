@@ -10,10 +10,11 @@ docType: "service"
 ---
 
 <div class="improve-docs">
-  <a href='https://github.com/Famous/famous-angular/edit/master/src/scripts/services/famous.js#L132'>
+  <a href='https://github.com/Famous/famous-angular/edit/master/src/scripts/services/famous.js#L254'>
     Improve this doc
   </a>
 </div>
+
 
 
 
@@ -31,8 +32,6 @@ docType: "service"
 
 
 This service gives you access to the complete Famo.us library.
-
-
 
 
 
